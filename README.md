@@ -8,7 +8,7 @@ This repository brings together research papers, vulnerability analyses, and pra
 
 | Research | Overview | Resources |
 |---|---|---|
-| [False CVE Research (2024-2026)](false-cve-research/) | Investigation of false, rejected, and AI-generated vulnerability reports, including 49 curl-related case studies. | [Read Paper](false-cve-research/PAPER.md) · [PDF](false-cve-research/False_CVE_Research_Paper.pdf) · [Case Studies](false-cve-research/cases/) |
+| [False CVE Research (2024-2026)](false-cve-research/) | Investigation of false, rejected, and AI-associated vulnerability reports, including 49 curl-related case studies. | [Read Paper](false-cve-research/PAPER.md) · [PDF](false-cve-research/False_CVE_Research_Paper.pdf) · [Case Studies](false-cve-research/cases/) |
 
 ## Repository Organisation
 
